@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'orange';
+	font-display: swap;
+	src: url('./fonts/orange.woff') format('woff');
+	font-style: normal;
+}
+
+h1 {
+	font-family: 'orange';
+}
